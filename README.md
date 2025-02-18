@@ -11,7 +11,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/71d11a5e-e1fe-42f3-9b06-fb43874340b0" alt="Card header"/>
+  <img src="https://github.com/user-attachments/assets/ecbe4197-fc11-400d-b080-87ca67ab7a54" alt="Card header"/>
 </div>
 
 
