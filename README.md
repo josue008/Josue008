@@ -5,9 +5,15 @@
 
 </div>
 
+
 <div align="center">
-  <h1>Josué Gutiérrez ⚽ 🎮 </h1>
+  <h1> Welcome <img width="30px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"> </h1>
 </div>
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/71d11a5e-e1fe-42f3-9b06-fb43874340b0" alt="Card header"/>
+</div>
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Josue008&color=blueviolet" alt="Profile views" />
@@ -21,11 +27,12 @@
 
 
 
+
 <div>
 
   ## 🧭 &nbsp;About Me
 
-  - 🦔 Technician in comprehensive video game design
+  - 🎓 Technician in comprehensive video game design
   - 💡 Video game development and design. 
 
   - 🚀 Always learning and improving my skills in Unity (C#), Unreal Engine (C++/Blueprints)
@@ -111,9 +118,10 @@
 
 <!-- ![Snake animation](https://github.com/Pepyn0/Pepyn0/blob/output/github-contribution-grid-snake.svg) -->
 
-<div>
-  <img src="https://github.com/Pepyn0/Pepyn0/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
-</div>
+<p align="center">
+  <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
+    alt="example" />
+</p>
 
 <!-- ## 📚 &nbsp;My Projects -->
 
